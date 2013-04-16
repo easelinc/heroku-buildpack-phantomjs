@@ -7,7 +7,7 @@ CACHE_DIR=$2
 
 # config
 VERSION="1.9.0"
-S3_BUCKET="stomita-buildpack-phantomjs"
+S3_BUCKET="easel-production-static"
 
 # s3 packages
 FILE_NAME="buildpack-phantomjs-${VERSION}.tar.gz"
